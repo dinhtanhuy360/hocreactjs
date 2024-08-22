@@ -9,4 +9,4 @@
     console.log(log) ; 
    }
    logger('Massage');
- 
+  var a = 1 + 2;
