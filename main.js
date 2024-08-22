@@ -9,4 +9,5 @@
     console.log(log) ; 
    }
    logger('Massage');
-  var a = 1 + 2;
+  var a = 1 + 2; 
+  var d = 1 + 2; 
