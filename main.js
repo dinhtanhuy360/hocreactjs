@@ -20,8 +20,12 @@
   var p = 'hello world';
   var c = 'hello world'; /// sos
   //sos
+<<<<<<< HEAD
 // tay doi 1
 
 
 
 
+=======
+  // thay đổi của huy360
+>>>>>>> huy360
