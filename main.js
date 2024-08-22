@@ -18,14 +18,7 @@
   var comflect = 1 + 2; 
   var a = 'hello world';
   var p = 'hello world';
-  var c = 'hello world'; /// sos
-  //sos
-  // thay đổi của huy360
-  // thay doi cua huy360
-// tay doi 1
-
-
-
-
-  // thay đổi của huy360
- 
+  var c = 'hello world';  
+  
+  // thay đoi cua huy360
+  
