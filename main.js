@@ -12,22 +12,14 @@
   var a = 1 + 2; 
   var d = 1 + 2; 
   var c = 1 + 2; 
-  //sos
-  var f = 1 + 2; 
+   var f = 1 + 2; 
   var c = 1 + 2; 
   var comflect = 1 + 2; 
-<<<<<<< HEAD
-// thay doi cua main
-=======
-  var a = 'hello world';
+   var a = 'hello world';
   var p = 'hello world';
-  var c = 'hello world'; /// sos
-  //sos
-// tay doi 1
+  var c = 'hello world';  
+  
 
 
 
-
-  // thay đổi của huy360
-  // thay doi cua huyit
->>>>>>> main
+  
