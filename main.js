@@ -11,3 +11,4 @@
    logger('Massage');
   var a = 1 + 2; 
   var d = 1 + 2; 
+  var f = 1 + 2; 
