@@ -12,3 +12,4 @@
   var a = 1 + 2; 
   var d = 1 + 2; 
   var c = 1 + 2; 
+  var comflect = 1 + 2; 
