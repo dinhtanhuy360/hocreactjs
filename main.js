@@ -13,3 +13,6 @@
   var d = 1 + 2; 
   var c = 1 + 2; 
   //sos
+  var f = 1 + 2; 
+  var c = 1 + 2; 
+  var comflect = 1 + 2; 
