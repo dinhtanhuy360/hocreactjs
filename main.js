@@ -16,3 +16,4 @@
   var f = 1 + 2; 
   var c = 1 + 2; 
   var comflect = 1 + 2; 
+  var a = 'hello world';
