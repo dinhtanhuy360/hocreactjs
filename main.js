@@ -20,12 +20,10 @@
   var p = 'hello world';
   var c = 'hello world'; /// sos
   //sos
-  // thay đổi của huy360
-  // thay doi cua huy360
 // tay doi 1
 
 
 
 
   // thay đổi của huy360
- 
+  // thay doi cua huyit
