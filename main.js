@@ -1,5 +1,6 @@
 
 
+
 //  }
 //  logger('Message');
 
@@ -49,4 +50,6 @@ console.log(jsCourse);
 // }
 
 const sumEvenNumbers = arr => arr.reduce((sum, num) => num % 2 === 0 ? sum + num : sum, 0);
+
+ // thay doi huy it
 // thay doi cua huy360
